@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "editorconfig": "^2.0.0",
     "zenn-cli": "^0.1.147"
   }
 }
